@@ -1,0 +1,6 @@
+newenv/
+venv/
+frontend/node_modules/
+
+musicly/db.sqlite3
+musicly/.env
